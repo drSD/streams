@@ -1,0 +1,35 @@
+{
+  "$schema": "http://json-schema.org/draft-04/schema#",
+  "type": "array",
+  "items": {
+    "type": "object",
+    "properties": {
+      "user_id": {
+        "type": "integer"
+      },
+      "first_name": {
+        "type": "string"
+      },
+      "last_name": {
+        "type": "string"
+      },
+      "username": {
+        "type": "string"
+      },
+      "user_type": {
+        "type": "string"
+      },
+      "last_login_time": {
+        "type": "string"
+      }
+    },
+    "required": [
+      "user_id",
+      "first_name",
+      "last_name",
+      "username",
+      "user_type",
+      "last_login_time"
+    ]
+  }
+}

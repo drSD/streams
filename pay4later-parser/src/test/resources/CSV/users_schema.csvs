@@ -1,0 +1,8 @@
+version 1.1
+@totalColumns 6
+"User ID": positiveInteger
+"First Name": notEmpty
+"Last Name": notEmpty
+ Username: notEmpty
+"User Type": is("Manager") or is("Employee")
+"Last Login Time": regex("\d{2}-\d{2}-\d{4} \d{2}:\d{2}:\d{2}") 

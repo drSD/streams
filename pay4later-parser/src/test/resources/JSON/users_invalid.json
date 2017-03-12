@@ -1,0 +1,38 @@
+[
+  {
+    "user_id": 14,
+    "first_name": "Joe"
+  },
+  {
+    "user_id": 5,
+    "first_name": "Gary",
+    "last_name": "May",
+    "username": "gary23",
+    "user_type": "Manager",
+    "last_login_time": "02-01-2015 12:09:35"
+  },
+  {
+    "user_id": 6,
+    "first_name": "Jessica",
+    "last_name": "James",
+    "username": "jj56",
+    "user_type": "Employee",
+    "last_login_time": "13-01-2015 08:56:12"
+  },
+  {
+    "user_id": 7,
+    "first_name": "Frank",
+    "last_name": "Bruno",
+    "username": "franky",
+    "user_type": "employee",
+    "last_login_time": "12-01-2015 16:15:43"
+  },
+  {
+    "user_id": 8,
+    "first_name": "Bob",
+    "last_name": "Marley",
+    "username": "bobby3",
+    "user_type": "Manager",
+    "last_login_time": "01-02-2015 13:01:00"
+  }
+]
